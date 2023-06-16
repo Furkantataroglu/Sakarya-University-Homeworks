@@ -1,0 +1,9 @@
+Fonksiyon: Motor
+calisiyor = false; // false yapılıyor
+---------------------------
+Fonksiyon: getMotorNo
+// motor no getir
+---------------------------
+Fonksiyon: toString
+// durum belirlenmesi //
+---------------------------
