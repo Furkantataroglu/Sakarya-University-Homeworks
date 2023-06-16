@@ -1,0 +1,15 @@
+﻿  2021ödev2.cpp
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(17,17): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(18,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(19,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(20,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(21,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(22,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(23,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(24,20): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(55,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(62,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(76,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(89,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\2021ödev2\2021ödev2.cpp(111,42): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  2021ödev2.vcxproj -> C:\Users\furka.LAPTOP-0R1PUD9Q\source\repos\2021ödev2\Debug\2021ödev2.exe
