@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\bin\Debug\NDP2.DÖNEM1.ÖDEV.exe.config
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\bin\Debug\NDP2.DÖNEM1.ÖDEV.exe
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\bin\Debug\NDP2.DÖNEM1.ÖDEV.pdb
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\obj\Debug\NDP2.DÖNEM1.ÖDEV.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\obj\Debug\NDP2.DÖNEM1.ÖDEV.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\obj\Debug\NDP2.DÖNEM1.ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\obj\Debug\NDP2.DÖNEM1.ÖDEV.exe
+C:\Users\furka\source\repos\NDP2.DÖNEM1.ÖDEV\NDP2.DÖNEM1.ÖDEV\obj\Debug\NDP2.DÖNEM1.ÖDEV.pdb
