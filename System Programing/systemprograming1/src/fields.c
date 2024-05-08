@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include "fields.h"
 
 #define talloc(ty, sz) (ty *) malloc (sz * sizeof(ty))
