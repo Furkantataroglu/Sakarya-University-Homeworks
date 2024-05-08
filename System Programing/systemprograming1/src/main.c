@@ -4,14 +4,14 @@
 #include <stdio.h>
 #include "fields.h"
 
-// Verilen karakteri belirli sayıda dllist'e ekler
-void append_chars(Dllist list, char c, int count) {
+void append_chars(Dllist list, char* str, int count) {
     for (int i = 0; i < count; i++) {
-        dll_append(list, new_jval_c(c));
+        for (int j = 0; str[j] != '\0'; j++) {
+            dll_append(list, new_jval_c(str[j]));
+        }
     }
 }
 
-// Belirli bir karakteri belirli sayıda siler ve silme sonrası konumu ayarlar
 Dllist delete_chars(Dllist list, Dllist current, char c, int count) {
     while (current != dll_nil(list) && count > 0) {
         if (dll_val(current).c == c) {
@@ -23,7 +23,7 @@ Dllist delete_chars(Dllist list, Dllist current, char c, int count) {
             current = dll_prev(current);
         }
     }
-    return current;  // Güncel konumu döndür
+    return current;
 }
 
 int main() {
@@ -38,30 +38,33 @@ int main() {
     while (get_line(is) >= 0) {
         if (strcmp(is->fields[0], "yaz:") == 0) {
             for (int i = 1; i < is->NF; i += 2) {
-                int num = atoi(is->fields[i]);
-                char ch = is->fields[i+1][0];
-                if (strcmp(is->fields[i+1], "\\b") == 0) {
-                    ch = ' ';
-                } else if (strcmp(is->fields[i+1], "\\n") == 0) {
-                    ch = '\n';
+                char *endptr;
+                long num = strtol(is->fields[i], &endptr, 10);
+                if (*endptr != '\0' || endptr == is->fields[i]) {
+                    fprintf(stderr, "Hatalı format: Sayısal değer bekleniyor, bulunan '%s'\n", is->fields[i]);
+                    continue;
                 }
-                append_chars(list, ch, num);
+                char* str = is->fields[i+1];
+                if (strcmp(str, "\\b") == 0) {
+                    str = " ";
+                } else if (strcmp(str, "\\n") == 0) {
+                    str = "\n";
+                }
+                append_chars(list, str, num);
             }
         } else if (strcmp(is->fields[0], "sil:") == 0) {
             for (int i = 1; i < is->NF; i += 2) {
-        int num = atoi(is->fields[i]);
-        char ch = is->fields[i+1][0];
-        current = delete_chars(list, dll_last(list), ch, num); // Her çift için silme işlemi yap
-
+                int num = atoi(is->fields[i]);
+                char ch = is->fields[i+1][0];
+                current = delete_chars(list, dll_last(list), ch, num);
             }
         } else if (strcmp(is->fields[0], "sonagit:") == 0) {
-            current = dll_last(list);  // Listeyi sona taşı
+            current = dll_last(list);
         } else if (strcmp(is->fields[0], "dur:") == 0) {
             break;
         }
     }
 
-    // Çıktı dosyasına yazma
     FILE *out = fopen("cikis.dat", "w");
     dll_traverse(current, list) {
         fprintf(out, "%c", dll_val(current).c);
