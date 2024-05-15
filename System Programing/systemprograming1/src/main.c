@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <unistd.h>
 #include "fields.h"
 
 void append_chars(Dllist list, char* str, int count) {
@@ -26,11 +27,32 @@ Dllist delete_chars(Dllist list, Dllist current, char c, int count) {
     return current;
 }
 
-int main() {
-    IS is = new_inputstruct("data.dat");
+int check_extension(char *filename) {
+    char *dot = strrchr(filename, '.');
+    return (dot && strcmp(dot, ".dat") == 0);
+}
+
+int main(int argc, char *argv[]) {
+    
+    if (argc != 3) {
+        printf("Hatalı format\n");
+        return 1;
+    }
+
+    if (!check_extension(argv[1]) || !check_extension(argv[2])) {
+        printf("Hatalı format\n");
+        return 1;
+    }
+
+    if (access(argv[1], F_OK) != 0) {
+        printf("Dosya bulunamadı\n");
+        return 1;
+    }
+
+    IS is = new_inputstruct(argv[1]);
     if (is == NULL) {
-        perror("Dosya açılamadı");
-        exit(1);
+        printf("Dosya açılamadı\n");
+        return 1;
     }
 
     Dllist list = new_dllist(), current = dll_nil(list);
@@ -41,14 +63,19 @@ int main() {
                 char *endptr;
                 long num = strtol(is->fields[i], &endptr, 10);
                 if (*endptr != '\0' || endptr == is->fields[i]) {
-                    fprintf(stderr, "Hatalı format: Sayısal değer bekleniyor, bulunan '%s'\n", is->fields[i]);
-                    continue;
+                    fprintf(stderr, "Hatalı format ");
+                    break;
                 }
                 char* str = is->fields[i+1];
-                if (strcmp(str, "\\b") == 0) {
-                    str = " ";
-                } else if (strcmp(str, "\\n") == 0) {
-                    str = "\n";
+                if (str[0] == '\\' && str[1] != '\0') {
+                    if (strcmp(str, "\\b") == 0) {
+                        str = " ";
+                    } else if (strcmp(str, "\\n") == 0) {
+                        str = "\n";
+                    } else {
+                        printf("Hatalı format\n");
+                        return 0;
+                    }
                 }
                 append_chars(list, str, num);
             }
@@ -59,13 +86,28 @@ int main() {
                 current = delete_chars(list, dll_last(list), ch, num);
             }
         } else if (strcmp(is->fields[0], "sonagit:") == 0) {
+              if (is->NF != 1) {
+            printf("Hatalı format\n");
+            return 0;
+        }
             current = dll_last(list);
         } else if (strcmp(is->fields[0], "dur:") == 0) {
+              if (is->NF != 1) {
+            printf("Hatalı format\n");
+            return 0;
+        }
             break;
+        } else {
+            printf("Hatalı Format");
+            return 0;
         }
     }
 
-    FILE *out = fopen("cikis.dat", "w");
+    FILE *out = fopen(argv[2], "w");
+     if (out == NULL) {
+        perror("Çıkış dosyası oluşturulamadı");
+        return 1;
+    }
     dll_traverse(current, list) {
         fprintf(out, "%c", dll_val(current).c);
     }
