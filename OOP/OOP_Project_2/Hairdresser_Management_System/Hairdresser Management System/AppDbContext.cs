@@ -14,10 +14,10 @@ namespace Hairdresser_Management_System
         {
         }
 
-        // DbSet özelliklerini tanımlayın
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<Appointment> Appointments { get; set; }
+        public DbSet<Personnel> Personnel { get; set; }
     }
 
 }
