@@ -58,18 +58,9 @@ namespace Hairdresser_Management_System
                     Name = textBox1.Text,
                     Surname = textBox2.Text,
                     PhoneNumber = textBox3.Text,
-                    Services = new List<Service>()
+                   
                 };
 
-                foreach (var item in checkedListBoxServices.CheckedItems)
-                {
-                    var service = (dynamic)item;
-                    var selectedService = context.Services.Find(service.Id);
-                    if (selectedService != null)
-                    {
-                        customer.Services.Add(selectedService);
-                    }
-                }
 
                 context.Customers.Add(customer);
                 context.SaveChanges();

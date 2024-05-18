@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
+
 
 namespace Hairdresser_Management_System
 {
@@ -16,9 +18,22 @@ namespace Hairdresser_Management_System
 
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Service> Services { get; set; }
-        public DbSet<Appointment> Appointments { get; set; }
-        public DbSet<Personnel> Personnel { get; set; }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Customer>()
+      .HasMany(c => c.Services)
+      .WithMany(s => s.Customers)
+      .Map(cs =>
+      {
+          cs.MapLeftKey("CustomerId");
+          cs.MapRightKey("ServiceId");
+          cs.ToTable("CustomerServices");
+      });
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
+
 
 }
 

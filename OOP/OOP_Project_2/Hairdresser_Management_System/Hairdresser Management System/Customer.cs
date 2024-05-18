@@ -8,8 +8,12 @@ namespace Hairdresser_Management_System
 {
     public class Customer : Person
     {
-        public int ServiceId { get; set; }
-        public virtual Service Service { get; set; }
+        public ICollection<Service> Services { get; set; }  // Çoktan çoğa ilişki
+
+        public Customer()
+        {
+            Services = new HashSet<Service>();
+        }
     }
 
 }

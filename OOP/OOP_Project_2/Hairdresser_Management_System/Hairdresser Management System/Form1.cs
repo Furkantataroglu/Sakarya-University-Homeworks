@@ -81,7 +81,7 @@ namespace Hairdresser_Management_System
                         c.Name,
                         c.Surname,
                         c.PhoneNumber,
-                        ServiceName = c.Service.ServiceName
+                        
                     })
                     .ToList();
 
@@ -105,11 +105,6 @@ namespace Hairdresser_Management_System
                 {
                     DataPropertyName = "PhoneNumber",
                     HeaderText = "Phone Number"
-                });
-                dataGridView1.Columns.Add(new DataGridViewTextBoxColumn
-                {
-                    DataPropertyName = "ServiceName",
-                    HeaderText = "Service"
                 });
 
                 // Verileri DataGridView'e bağlayın
