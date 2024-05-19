@@ -1,73 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\furka\\Desktop\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\furka\\Desktop\\WinFormsApp1\\winformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\winformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\migrations\\20240518231118_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\migrations\\20240518231118_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\migrations\\20240518231118_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518230641_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp1\\Migrations\\20240518230641_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518230641_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\winformsapp1\\winformsapp1\\addcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\addcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\addcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\furka\\Desktop\\WinFormsApp1\\winformsapp1\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\winformsapp1\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -78,6 +73,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MyDatabase/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\furka\\desktop\\sakarya-university-homeworks\\oop\\hairdresser_managementsystem\\winformsapp1\\winformsapp1\\migrations\\20240518233156_addtimetoappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEBC270-E527-4141-A7FC-9FA2C85BB9A9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\migrations\\20240518233156_addtimetoappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UpdateCustomerForm.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\UpdateCustomerForm.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs",
               "RelativeToolTip": "WinFormsApp1\\UpdateCustomerForm.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAUwG4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UpdateCustomerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\UpdateCustomerForm.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs [Design]",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\UpdateCustomerForm.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\UpdateCustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T23:47:49.154Z",
@@ -122,21 +121,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:18:35.59Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-18T21:18:35.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Service.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Service.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Service.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Service.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Service.cs",
               "RelativeToolTip": "WinFormsApp1\\Service.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\AppDbContext.cs",
               "RelativeToolTip": "WinFormsApp1\\AppDbContext.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA0wBkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Personnel.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Personnel.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Personnel.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Personnel.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Personnel.cs",
               "RelativeToolTip": "WinFormsApp1\\Personnel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,43 +168,40 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AddCustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\AddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\AddCustomer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\AddCustomer.cs",
               "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\AddCustomer.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\WinFormsApp1\\WinFormsApp1\\AddCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:12:19.322Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-18T21:12:19.322Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAcwHIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:18:48.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T21:18:48.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Customer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Customer.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Customer.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Customer.cs",
               "RelativeToolTip": "WinFormsApp1\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:04:28.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T21:04:28.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "dbo.Personnel [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MyDatabase/True/SqlTable/dbo.Personnel.sql",
               "ToolTip": "dbo.Personnel [Data]",
@@ -217,61 +212,57 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Appointment.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Appointment.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Appointment.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Appointment.cs",
               "RelativeToolTip": "WinFormsApp1\\Appointment.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAA8wB4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:00:36.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T21:00:36.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240518233156_AddTimeToAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
+              "RelativeToolTip": "WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:31:56.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCustomer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\AddCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddCustomer.Designer.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\AddCustomer.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\AddCustomer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:02:56.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20240518233156_AddTimeToAppointment.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
-              "RelativeToolTip": "WinFormsApp1\\Migrations\\20240518233156_AddTimeToAppointment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T23:31:56.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddCustomer.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\AddCustomer.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\AddCustomer.Designer.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\AddCustomer.Designer.cs",
-              "RelativeToolTip": "WinFormsApp1\\AddCustomer.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:02:56.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "20240518231118_1.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518231118_1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518231118_1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Migrations\\20240518231118_1.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518231118_1.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518231118_1.cs",
               "RelativeToolTip": "WinFormsApp1\\Migrations\\20240518231118_1.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T23:11:19.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T23:11:19.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Program.cs",
               "RelativeToolTip": "WinFormsApp1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,43 +270,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "20240518230641_1.cs",
               "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518230641_1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Migrations\\20240518230641_1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518230641_1.cs",
               "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518230641_1.cs",
-              "RelativeToolTip": "WinFormsApp1\\Migrations\\20240518230641_1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\WinFormsApp1\\WinFormsApp1\\Migrations\\20240518230641_1.cs",
               "ViewState": "AQIAAH8AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T23:06:41.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:39:16.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T21:39:16.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "DeleteForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\DeleteForm.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\Sakarya-University-Homeworks\\OOP\\Hairdresser_managementsystem\\WinFormsApp1\\WinFormsApp1\\DeleteForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\DeleteForm.cs",
               "ToolTip": "C:\\Users\\furka\\Desktop\\WinFormsApp1\\WinFormsApp1\\DeleteForm.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\DeleteForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\WinFormsApp1\\WinFormsApp1\\DeleteForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T21:43:59.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "dbo.Customers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/MyDatabase/True/SqlTable/dbo.Customers.sql",
               "ToolTip": "dbo.Customers [Data]",
@@ -324,10 +314,10 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\furka\\AppData\\Local\\Temp\\vy0zwrxn..sql",
-              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\vy0zwrxn..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\vy0zwrxn..sql",
               "ToolTip": "SQLQuery1.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-05-18T21:11:26.924Z"
