@@ -121,9 +121,9 @@ C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsy
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.sourcelink.json
-C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinForms.E4050A35.Up2Date
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\furka\Desktop\Sakarya-University-Homeworks\OOP\Hairdresser_managementsystem\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete

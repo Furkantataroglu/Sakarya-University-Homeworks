@@ -1,3 +1,15 @@
+/****************************************************************************
+**					SAKARYA ÜNÝVERSÝTESÝ
+**				BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
+**				    BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
+**				   NESNEYE DAYALI PROGRAMLAMA DERSÝ
+**					2023-2024 BAHAR DÖNEMÝ
+**	
+**				ÖDEV NUMARASI..........:1. Proje
+**				ÖÐRENCÝ ADI............:Furkan Tataroðlu
+**				ÖÐRENCÝ NUMARASI.......:g201210089
+**                         DERSÝN ALINDIÐI GRUP...:1C
+****************************************************************************/
 using Microsoft.EntityFrameworkCore;
 
 namespace WinFormsApp1
