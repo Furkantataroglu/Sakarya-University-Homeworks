@@ -1,3 +1,15 @@
+/****************************************************************************
+**					SAKARYA ÜNÝVERSÝTESÝ
+**				BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
+**				    BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
+**				   NESNEYE DAYALI PROGRAMLAMA DERSÝ
+**					2023-2024 BAHAR DÖNEMÝ
+**	
+**				ÖDEV NUMARASI..........:1. Proje
+**				ÖÐRENCÝ ADI............:Furkan Tataroðlu
+**				ÖÐRENCÝ NUMARASI.......:g201210089
+**                         DERSÝN ALINDIÐI GRUP...:1C
+****************************************************************************/
 using Microsoft.EntityFrameworkCore;
 
 namespace WinFormsApp1
@@ -13,6 +25,8 @@ namespace WinFormsApp1
         {
 
             AddCustomer();
+            
+
         }
 
 
@@ -28,6 +42,8 @@ namespace WinFormsApp1
 
         private void customersToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button3.Visible = true;
+
             using (var context = new AppDbContext())
             {
                 var customers = context.Customers.ToList();
@@ -72,7 +88,8 @@ namespace WinFormsApp1
                         a.Profit,
                         ServiceNames = string.Join(", ", a.AppointmentServices.Select(p => p.Service.ServiceName)),
                         PersonnelName = a.Personnel.Name,
-                        a.Time
+                        a.Time,
+                        
                     })
                     .ToList();
 
@@ -93,11 +110,15 @@ namespace WinFormsApp1
 
         private void appointmentsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button3.Visible = false;
+
             LoadAppointments();
         }
 
         private void personnelToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button3.Visible = false;
+
             using (var context = new AppDbContext())
             {
                 var personnel = context.Personnel.ToList();
@@ -107,6 +128,7 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            button3.Visible = false;
 
         }
 
@@ -124,6 +146,19 @@ namespace WinFormsApp1
             else
             {
                 MessageBox.Show("Güncellemek için bir müþteri seçin", "Uyarý", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void servicesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button3.Visible = false;
+            using (var context = new AppDbContext())
+            {
+                var services = context.Services.ToList();
+                dataGridView1.DataSource = services;
+                dataGridView1.Columns["ServiceName"].HeaderText = "Services";
+
+
             }
         }
     }

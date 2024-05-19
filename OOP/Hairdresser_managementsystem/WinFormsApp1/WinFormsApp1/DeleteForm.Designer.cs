@@ -36,9 +36,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(52, 116);
+            button1.Location = new Point(59, 155);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(75, 23);
+            button1.Size = new Size(86, 31);
             button1.TabIndex = 0;
             button1.Text = "Delete";
             button1.UseVisualStyleBackColor = true;
@@ -47,31 +48,34 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(198, 12);
+            dataGridView1.Location = new Point(226, 16);
+            dataGridView1.Margin = new Padding(3, 4, 3, 4);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
             dataGridView1.RowTemplate.Height = 25;
-            dataGridView1.Size = new Size(515, 404);
+            dataGridView1.Size = new Size(589, 539);
             dataGridView1.TabIndex = 1;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(12, 89);
+            label2.Location = new Point(14, 119);
             label2.Name = "label2";
-            label2.Size = new Size(174, 15);
+            label2.Size = new Size(217, 20);
             label2.TabIndex = 3;
             label2.Text = "Silmek için bir müşteriyi seçiniz.";
             // 
             // DeleteForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(label2);
             Controls.Add(dataGridView1);
             Controls.Add(button1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "DeleteForm";
-            Text = "DeleteForm";
+            Text = "Delete";
             Load += DeleteForm_Load_1;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
